@@ -21,6 +21,10 @@
   <a href="#licença">Licença</a>
 </p>
 
+<p align="flex">
+  <img src="https://github.com/BrunaMart/Happy-NLW3/blob/main/gitImage/happy.PNG" width=100%">
+</p>
+
 ## Recursos
 - Cadastro de centros de acolhimento;
 - Lista os centros de acolhimento;
