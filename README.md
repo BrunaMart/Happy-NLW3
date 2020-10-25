@@ -22,7 +22,8 @@
 </p>
 
 <p align="flex">
-  <img src="https://github.com/BrunaMart/Happy-NLW3/blob/main/gitImage/happy.PNG" width=100%">
+  <img src="https://github.com/BrunaMart/Happy-NLW3/blob/main/gitImage/happy.PNG" width=50%">
+  <img src="https://github.com/BrunaMart/Happy-NLW3/blob/main/gitImage/acolhimentos.PNG" width=50%">   
 </p>
 
 ## Recursos
